@@ -191,6 +191,9 @@ description: 标书制作全流程智能助手，覆盖招标文件解析、标�
 | `references/writing-guide.md` | 阶段三内容撰写时 | 各章节写作要点、常用表述、避坑指南 |
 | `references/compliance-checklist.md` | 阶段四合规检查时 | 废标项清单、资质核对表、格式规范检查 |
 | `references/case-study-service.md` | 服务类标书撰写时必读 | 劳务外包服务标书标杆案例：完整结构、写作风格、评分对应策略、可复用模板 |
+| `references/case-study-engineering.md` | 工程类标书撰写时必读 | 工程施工类标书标杆案例：技术标/商务标结构、分部分项施工方案、评分对应策略 |
+| `references/quoting-guide.md` | 报价部分撰写时必读 | 报价表模板、报价计算规则、大小写金额转换、常见错误检查清单 |
+| `references/performance-matching.md` | 业绩整理时必读 | 业绩筛选标准、匹配度评估方法、业绩展示技巧、证明材料要求 |
 
 ---
 
