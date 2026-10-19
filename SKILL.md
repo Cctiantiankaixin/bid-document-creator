@@ -194,6 +194,7 @@ description: 标书制作全流程智能助手，覆盖招标文件解析、标�
 | `references/case-study-engineering.md` | 工程类标书撰写时必读 | 工程施工类标书标杆案例：技术标/商务标结构、分部分项施工方案、评分对应策略 |
 | `references/quoting-guide.md` | 报价部分撰写时必读 | 报价表模板、报价计算规则、大小写金额转换、常见错误检查清单 |
 | `references/performance-matching.md` | 业绩整理时必读 | 业绩筛选标准、匹配度评估方法、业绩展示技巧、证明材料要求 |
+| `references/case-study-security.md` | 保安/物业安保类标书撰写时必读 | 保安服务外包标杆案例：岗位设置、应急预案、服务标准、与劳务外包的差异对比 |
 
 ---
 
