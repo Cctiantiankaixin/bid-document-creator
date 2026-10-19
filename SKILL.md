@@ -195,6 +195,7 @@ description: 标书制作全流程智能助手，覆盖招标文件解析、标�
 | `references/quoting-guide.md` | 报价部分撰写时必读 | 报价表模板、报价计算规则、大小写金额转换、常见错误检查清单 |
 | `references/performance-matching.md` | 业绩整理时必读 | 业绩筛选标准、匹配度评估方法、业绩展示技巧、证明材料要求 |
 | `references/case-study-security.md` | 保安/物业安保类标书撰写时必读 | 保安服务外包标杆案例：岗位设置、应急预案、服务标准、与劳务外包的差异对比 |
+| `references/format-submission-guide.md` | 阶段四/五格式检查时必读 | 标书格式规范、装订密封要求、签字盖章清单、电子招投标提交指南 |
 
 ---
 
